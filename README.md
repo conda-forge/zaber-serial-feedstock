@@ -1,7 +1,7 @@
 About zaber-serial-feedstock
 ============================
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/zaber-serial-feedstock/blob/main/LICENSE.txt)
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/couger01-zaber-serial-feedstock/blob/main/LICENSE.txt)
 
 Home: http://www.zaber.com/support/docs/api/core-python/
 
@@ -17,8 +17,8 @@ Current build status
 
 <table><tr><td>All platforms:</td>
     <td>
-      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=10566&branchName=main">
-        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/zaber-serial-feedstock?branchName=main">
+      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=None&branchName=main">
+        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/couger01-zaber-serial-feedstock?branchName=main">
       </a>
     </td>
   </tr>
