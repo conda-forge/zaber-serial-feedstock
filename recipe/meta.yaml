@@ -11,13 +11,14 @@ source:
   sha256: 84e38c8761f976fa3f9481e5b977fab34d38e9df1949efb1a023da4b4c2a9a92
 
 build:
-  number: 1
+  number: 2
   noarch: python
   script: {{ PYTHON }} -m pip install . -vv
 
 requirements:
   host:
     - pip
+    - setuptools
     - python {{ python_min }}
   run:
     - pyserial
